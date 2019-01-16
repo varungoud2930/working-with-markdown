@@ -81,9 +81,9 @@ If editing online in GitHub, scroll up to the top of the edit box, and click "Pr
 ## Learn More
 
 Learn more by checking out [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ "Mastering Markdown") and other resources. 
-## Varun Goud
+## Varun Goud Pulipalpula
 
-I have added a new repository
+I have added a new repository.
 
 ##  About
 
